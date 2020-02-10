@@ -1,0 +1,217 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "0b9d404f4e5fc10ee8306d4989aab6b4",
+    "loginToken": "02215fba910b627006c177a441902e8a",
+    "logs": [
+      {
+        "time": "2020-02-10T12:25:58.519Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2020-02-10T12:39:34.671Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Connected"
+      },
+      {
+        "time": "2020-02-10T12:39:58.870Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T12:40:20.371Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T12:40:20.421Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T12:40:20.424Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T12:40:40.339Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T12:40:41.673Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T12:41:07.996Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T12:41:19.865Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T12:42:14.509Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 061fbede82adf7e7"
+      },
+      {
+        "time": "2020-02-10T12:42:14.598Z",
+        "type": "SUCCESS",
+        "message": "061fbede82adf7e7 GPS Updated"
+      },
+      {
+        "time": "2020-02-10T12:42:17.416Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T12:42:27.572Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T12:42:29.726Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T12:42:35.969Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T12:42:44.126Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T12:42:50.956Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 061fbede82adf7e7"
+      },
+      {
+        "time": "2020-02-10T12:42:55.080Z",
+        "type": "SUCCESS",
+        "message": "061fbede82adf7e7 Contacts Updated - 986 New Contacts Added"
+      },
+      {
+        "time": "2020-02-10T12:43:14.732Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 061fbede82adf7e7"
+      },
+      {
+        "time": "2020-02-10T12:43:31.668Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From 061fbede82adf7e7"
+      },
+      {
+        "time": "2020-02-10T12:43:31.789Z",
+        "type": "SUCCESS",
+        "message": "061fbede82adf7e7 WiFi Updated - 2 New WiFi Hotspots Found"
+      },
+      {
+        "time": "2020-02-10T12:43:34.222Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T12:43:40.860Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 061fbede82adf7e7"
+      },
+      {
+        "time": "2020-02-10T12:43:50.422Z",
+        "type": "SUCCESS",
+        "message": "061fbede82adf7e7 Apps Updated"
+      },
+      {
+        "time": "2020-02-10T12:43:57.848Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T12:43:57.860Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T12:43:59.243Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T12:43:59.259Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T12:44:06.017Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 061fbede82adf7e7"
+      },
+      {
+        "time": "2020-02-10T12:44:06.220Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-02-10T12:44:38.122Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T12:44:45.022Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T12:44:59.217Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T12:45:36.559Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T12:45:46.680Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T12:46:35.571Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T12:47:21.241Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": [
+    {
+      "clientID": "061fbede82adf7e7",
+      "firstSeen": "2020-02-10T12:39:34.643Z",
+      "lastSeen": "2020-02-10T12:39:34.643Z",
+      "isOnline": true,
+      "dynamicData": {
+        "clientIP": "192.168.0.102",
+        "clientGeo": {},
+        "device": {
+          "model": "POCO F1",
+          "manufacture": "Xiaomi",
+          "version": "9"
+        }
+      }
+    }
+  ]
+}
