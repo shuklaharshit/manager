@@ -318,6 +318,71 @@
         "time": "2020-02-10T13:00:55.684Z",
         "type": "INFO",
         "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T13:01:43.841Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T13:02:03.052Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T13:02:03.158Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T13:02:23.451Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T13:03:08.355Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T13:03:09.754Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T13:04:33.692Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T13:05:36.377Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T13:05:44.716Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T13:05:56.747Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T13:06:19.618Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Connected"
+      },
+      {
+        "time": "2020-02-10T13:06:32.916Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T13:07:39.547Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Notification Recieved"
       }
     ],
     "ipLog": []
@@ -326,7 +391,7 @@
     {
       "clientID": "061fbede82adf7e7",
       "firstSeen": "2020-02-10T12:39:34.643Z",
-      "lastSeen": "2020-02-10T12:39:34.643Z",
+      "lastSeen": "2020-02-10T13:06:19.602Z",
       "isOnline": true,
       "dynamicData": {
         "clientIP": "192.168.0.102",
