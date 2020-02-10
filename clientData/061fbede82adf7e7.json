@@ -4963,7 +4963,12 @@
       "lastSeen": "2020-02-10T12:43:31.780Z"
     }
   ],
-  "clipboardLog": [],
+  "clipboardLog": [
+    {
+      "time": "2020-02-10T13:20:35.711Z",
+      "content": "clear1y_c0nfused"
+    }
+  ],
   "notificationLog": [
     {
       "appName": "com.microsoft.skydrive",
@@ -5455,6 +5460,457 @@
       "postTime": 1581340057534,
       "key": "0|com.microsoft.skydrive|666|null|10178",
       "hash": "b9282851462dbd9b757044981b8ce852"
+    },
+    {
+      "appName": "com.microsoft.skydrive",
+      "title": "Backing up your photos...",
+      "content": "59 left",
+      "postTime": 1581340087526,
+      "key": "0|com.microsoft.skydrive|666|null|10178",
+      "hash": "7ced5ce9a677b63b60cd7722c9337ad7"
+    },
+    {
+      "appName": "com.microsoft.skydrive",
+      "title": "Backing up your photos...",
+      "content": "58 left",
+      "postTime": 1581340105663,
+      "key": "0|com.microsoft.skydrive|666|null|10178",
+      "hash": "72722cfcf10da39aef8859a9cde6e100"
+    },
+    {
+      "appName": "com.microsoft.skydrive",
+      "title": "Backing up your photos...",
+      "content": "57 left",
+      "postTime": 1581340117881,
+      "key": "0|com.microsoft.skydrive|666|null|10178",
+      "hash": "e4a458d5eb382a0886df185d72e5a99d"
+    },
+    {
+      "appName": "com.microsoft.skydrive",
+      "title": "Backing up your photos...",
+      "content": "56 left",
+      "postTime": 1581340140454,
+      "key": "0|com.microsoft.skydrive|666|null|10178",
+      "hash": "10b6f500e17c460da3cec559f0611d72"
+    },
+    {
+      "appName": "com.vlv.aravali",
+      "title": "कैसे एक लड़की समाज की उठती उंगलियों का सामना करती है",
+      "content": "प्रेगनेंसी में किन कठिनाइयों का सामना करती है ",
+      "postTime": 1581340163442,
+      "key": "0|com.vlv.aravali|1|null|10372",
+      "hash": "3d1b3a5505865ba7590802335bc6489d"
+    },
+    {
+      "appName": "com.microsoft.skydrive",
+      "title": "Backing up your photos...",
+      "content": "55 left",
+      "postTime": 1581340224959,
+      "key": "0|com.microsoft.skydrive|666|null|10178",
+      "hash": "9a3ff9f9c43d35f1772b2511e9523e6c"
+    },
+    {
+      "appName": "com.android.mms",
+      "title": "Messaging is running",
+      "content": "Tap for more information or to stop the app.",
+      "postTime": 1581340230981,
+      "key": "0|com.android.mms|114|null|10035",
+      "hash": "f6a21b7ea49dba5092c8b39bfa2617c0"
+    },
+    {
+      "appName": "com.truecaller",
+      "title": "Paid ₹79",
+      "content": "💵 to a/c XXXX",
+      "postTime": 1581340231934,
+      "key": "0|com.truecaller|792266229|null|10358",
+      "hash": "1dbdfb2ca28e2d408a78caa2b1351e02"
+    },
+    {
+      "appName": "com.android.mms",
+      "title": "Bank of India",
+      "content": "2 messages | Your a/c no. XXXXXXXXXXX6210 is debited for Rs. 79.00 on 10-02-2020 18:40 and credited to a/c no. XXXXXXXXIPAY (UPI Ref no 004118163909).",
+      "postTime": 1581340232029,
+      "key": "0|com.android.mms|2040|null|10035",
+      "hash": "d4718d843385c134c5dbf6b69f4ff8ba"
+    },
+    {
+      "appName": "com.google.android.apps.nbu.paisa.user",
+      "content": "",
+      "postTime": 1581340240891,
+      "key": "0|com.google.android.apps.nbu.paisa.user|0|106852611852808559792::SUMMARY::95c84798f908137d8e274fb44cc3a9c9|10205",
+      "hash": "2dae3e395d686223f6a5d1c933177697"
+    },
+    {
+      "appName": "com.google.android.apps.nbu.paisa.user",
+      "content": "It may take up to 3 working days to reflect this in your account.",
+      "postTime": 1581340240893,
+      "key": "0|com.google.android.apps.nbu.paisa.user|0|106852611852808559792::a:mandatory_notification:f399495c6b800000|10205",
+      "hash": "8fe492454dc825a21dedd2e669fefd46"
+    },
+    {
+      "appName": "com.microsoft.skydrive",
+      "title": "Backing up your photos...",
+      "content": "54 left",
+      "postTime": 1581340242250,
+      "key": "0|com.microsoft.skydrive|666|null|10178",
+      "hash": "c61cccae2755f0a3cb3391ac6e24e9e6"
+    },
+    {
+      "appName": "com.android.mms",
+      "title": "Bank of India",
+      "content": "Your a/c no. XXXXXXXXXXX6210 is debited for Rs. 79.00 on 10-02-2020 18:40 and credited to a/c no. XXXXXXXXIPAY (UPI Ref no 004118163909).",
+      "postTime": 1581340245183,
+      "key": "0|com.android.mms|1960|null|10035",
+      "hash": "8fae9e4814da0f4a1789d04bafd29709"
+    },
+    {
+      "appName": "com.truecaller",
+      "title": "Paid ₹79",
+      "content": "💵 to a/c XXXX",
+      "postTime": 1581340245249,
+      "key": "0|com.truecaller|792280006|null|10358",
+      "hash": "72458b107f6fe322ddf0339d18931147"
+    },
+    {
+      "appName": "com.microsoft.skydrive",
+      "title": "Backing up your photos...",
+      "content": "53 left",
+      "postTime": 1581340266750,
+      "key": "0|com.microsoft.skydrive|666|null|10178",
+      "hash": "daeca3598f27dbaee0d28bfeaa35627a"
+    },
+    {
+      "appName": "com.microsoft.skydrive",
+      "title": "Backing up your photos...",
+      "content": "52 left",
+      "postTime": 1581340289214,
+      "key": "0|com.microsoft.skydrive|666|null|10178",
+      "hash": "551ace3d7430923486d7377491453243"
+    },
+    {
+      "appName": "com.google.android.youtube",
+      "content": "Morbani Thangat Kare - Maithili Thakur, Rishav Thakur, Ayachi Thakur",
+      "postTime": 1581340310385,
+      "key": "0|com.google.android.youtube|99|iiHohivUjxQr4zspF1ZUJw|10138",
+      "hash": "c0925d43f3487429712c689970cec1c8"
+    },
+    {
+      "appName": "com.microsoft.skydrive",
+      "title": "Backing up your photos...",
+      "content": "51 left",
+      "postTime": 1581340327087,
+      "key": "0|com.microsoft.skydrive|666|null|10178",
+      "hash": "cbc7b38b125de62bd64616ad848649f1"
+    },
+    {
+      "appName": "com.microsoft.skydrive",
+      "title": "Backing up your photos...",
+      "content": "50 left",
+      "postTime": 1581340356463,
+      "key": "0|com.microsoft.skydrive|666|null|10178",
+      "hash": "5e6b8d92679c84261c3598d05cfc0dcb"
+    },
+    {
+      "appName": "com.microsoft.skydrive",
+      "title": "Backing up your photos...",
+      "content": "49 left",
+      "postTime": 1581340379841,
+      "key": "0|com.microsoft.skydrive|666|null|10178",
+      "hash": "3807ce7229298b35132318234cb6fe89"
+    },
+    {
+      "appName": "com.instagram.android",
+      "title": "areebsayyed_",
+      "content": "(harshitshukla___): areebsayyed_: To tune kisi or ko bhi dia",
+      "postTime": 1581340421139,
+      "key": "0|com.instagram.android|64278|direct|1926139960;thread_id:340282366841710300949128342827610417592|10369",
+      "hash": "bd50b1a3545913077d4d2f3d005e860d"
+    },
+    {
+      "appName": "com.microsoft.skydrive",
+      "title": "Backing up your photos...",
+      "content": "48 left",
+      "postTime": 1581340422150,
+      "key": "0|com.microsoft.skydrive|666|null|10178",
+      "hash": "044416d9e0bdbad3d70f5650fc59e4df"
+    },
+    {
+      "appName": "com.instagram.android",
+      "title": "areebsayyed_",
+      "content": "(harshitshukla___): areebsayyed_: Hai kia account",
+      "postTime": 1581340423562,
+      "key": "0|com.instagram.android|64278|direct|1926139960;thread_id:340282366841710300949128342827610417592|10369",
+      "hash": "dd66e18cf2d8541930e9e61ead9f64f2"
+    },
+    {
+      "appName": "com.instagram.android",
+      "title": "areebsayyed_",
+      "content": "(harshitshukla___): areebsayyed_: Na maine nahi kia",
+      "postTime": 1581340445702,
+      "key": "0|com.instagram.android|64278|direct|1926139960;thread_id:340282366841710300949128342827610417592|10369",
+      "hash": "3f0415e94686a1a43dca163c1a9657c2"
+    },
+    {
+      "appName": "com.instagram.android",
+      "title": "areebsayyed_",
+      "content": "(harshitshukla___): areebsayyed_: Sach me",
+      "postTime": 1581340447656,
+      "key": "0|com.instagram.android|64278|direct|1926139960;thread_id:340282366841710300949128342827610417592|10369",
+      "hash": "d25b087f370978d46e3bb08f61775f74"
+    },
+    {
+      "appName": "com.microsoft.skydrive",
+      "title": "Backing up your photos...",
+      "content": "47 left",
+      "postTime": 1581340451133,
+      "key": "0|com.microsoft.skydrive|666|null|10178",
+      "hash": "4cd480a71ca485d3007153238fe4e057"
+    },
+    {
+      "appName": "com.instagram.android",
+      "title": "Instagram",
+      "content": "oshishya: Yes of course 🙂",
+      "postTime": 1581340477551,
+      "key": "999|com.instagram.android|64278|direct|3019159984;thread_id:340282366841710300949128165348576704193|99910369",
+      "hash": "32cb03f8985da9b774f88dc781dcfef8"
+    },
+    {
+      "appName": "com.microsoft.skydrive",
+      "title": "Backing up your photos...",
+      "content": "46 left",
+      "postTime": 1581340480582,
+      "key": "0|com.microsoft.skydrive|666|null|10178",
+      "hash": "43a5d462a5ff04dad74d9ab466379038"
+    },
+    {
+      "appName": "com.microsoft.skydrive",
+      "title": "Backing up your photos...",
+      "content": "45 left",
+      "postTime": 1581340497529,
+      "key": "0|com.microsoft.skydrive|666|null|10178",
+      "hash": "f7ab999d3bbe763c8a116c39e0668b1d"
+    },
+    {
+      "appName": "com.instagram.android",
+      "title": "areebsayyed_",
+      "content": "(harshitshukla___): areebsayyed_: Kia pata chutiye",
+      "postTime": 1581340500201,
+      "key": "0|com.instagram.android|64278|direct|1926139960;thread_id:340282366841710300949128342827610417592|10369",
+      "hash": "fe17024e9863a79586ed0f864cce9998"
+    },
+    {
+      "appName": "com.microsoft.skydrive",
+      "title": "Backing up your photos...",
+      "content": "44 left",
+      "postTime": 1581340507300,
+      "key": "0|com.microsoft.skydrive|666|null|10178",
+      "hash": "8a80613df34743189f529d44d1d473cc"
+    },
+    {
+      "appName": "com.microsoft.skydrive",
+      "title": "Backing up your photos...",
+      "content": "43 left",
+      "postTime": 1581340522291,
+      "key": "0|com.microsoft.skydrive|666|null|10178",
+      "hash": "ba05cd7a3b979c2ca18f8bc851e694aa"
+    },
+    {
+      "appName": "com.instagram.android",
+      "title": "areebsayyed_",
+      "content": "(harshitshukla___): areebsayyed_: To gaàaaaand mara",
+      "postTime": 1581340528550,
+      "key": "0|com.instagram.android|64278|direct|1926139960;thread_id:340282366841710300949128342827610417592|10369",
+      "hash": "f98954d8b583af5b87ee4d46c18f59b3"
+    },
+    {
+      "appName": "com.instagram.android",
+      "title": "oshishya",
+      "content": "oshishya: Bt send me last pic, u clicked",
+      "postTime": 1581340529217,
+      "key": "999|com.instagram.android|64278|direct|3019159984;thread_id:340282366841710300949128165348576704193|99910369",
+      "hash": "5da5b5008adeef737a0e84420dc53aac"
+    },
+    {
+      "appName": "com.microsoft.skydrive",
+      "title": "Backing up your photos...",
+      "content": "42 left",
+      "postTime": 1581340542096,
+      "key": "0|com.microsoft.skydrive|666|null|10178",
+      "hash": "10a8706042133936ace291f49b92b273"
+    },
+    {
+      "appName": "com.microsoft.skydrive",
+      "title": "Backing up your photos...",
+      "content": "41 left",
+      "postTime": 1581340549305,
+      "key": "0|com.microsoft.skydrive|666|null|10178",
+      "hash": "de134c34e2c95e9c682fef959fd61196"
+    },
+    {
+      "appName": "com.microsoft.skydrive",
+      "title": "Backing up your photos...",
+      "content": "40 left",
+      "postTime": 1581340561935,
+      "key": "0|com.microsoft.skydrive|666|null|10178",
+      "hash": "dd1913983ff6b3bafeed0fe8f5b30b85"
+    },
+    {
+      "appName": "com.microsoft.skydrive",
+      "title": "Backing up your photos...",
+      "content": "39 left",
+      "postTime": 1581340578735,
+      "key": "0|com.microsoft.skydrive|666|null|10178",
+      "hash": "93454b665e7c5acd77a5d8360b8b53c5"
+    },
+    {
+      "appName": "com.microsoft.skydrive",
+      "title": "Backing up your photos...",
+      "content": "38 left",
+      "postTime": 1581340602741,
+      "key": "0|com.microsoft.skydrive|666|null|10178",
+      "hash": "3455a6dd17051991fe96c97f6fdb6fbd"
+    },
+    {
+      "appName": "com.microsoft.skydrive",
+      "title": "Backing up your photos...",
+      "content": "37 left",
+      "postTime": 1581340629550,
+      "key": "0|com.microsoft.skydrive|666|null|10178",
+      "hash": "763b1e2b161ef3ba1bd6cfa5127a051c"
+    },
+    {
+      "appName": "com.instagram.android",
+      "title": "oshishya",
+      "content": "oshishya: Bcoz I dont know,  u clicked any pic Or not after we met",
+      "postTime": 1581340635664,
+      "key": "999|com.instagram.android|64278|direct|3019159984;thread_id:340282366841710300949128165348576704193|99910369",
+      "hash": "cb45a62d41138281e0bd364e3d38ce8e"
+    },
+    {
+      "appName": "com.instagram.android",
+      "title": "oshishya",
+      "content": "oshishya: Till mow",
+      "postTime": 1581340640483,
+      "key": "999|com.instagram.android|64278|direct|3019159984;thread_id:340282366841710300949128165348576704193|99910369",
+      "hash": "48672fc610850f1e6e499a9758262de3"
+    },
+    {
+      "appName": "com.microsoft.skydrive",
+      "title": "Backing up your photos...",
+      "content": "36 left",
+      "postTime": 1581340676299,
+      "key": "0|com.microsoft.skydrive|666|null|10178",
+      "hash": "22bb76cd0d32b1e29c39764642ef0132"
+    },
+    {
+      "appName": "org.telegram.messenger",
+      "title": "Movie spot",
+      "content": "🎬 Hacked Movie 2020 Download [HD]👇\n\n🔳 Size: 1.5GB (Full 𝙃𝘿 ✅)\n👉 Click Here To 𝘿𝙊𝙒𝙉𝙇𝙊𝘼𝘿\n\n🔳 Size: 700MB (𝙃𝘿 ✅)\n👉 Click Here To 𝘿𝙊𝙒𝙉𝙇𝙊𝘼𝘿\n\n🔳 Size: 400MB (480p)\n👉 Click Here To 𝘿𝙊𝙒𝙉𝙇𝙊𝘼𝘿\n\n✔️ Download Fast,\n🔗 #UpdatedLinks",
+      "postTime": 1581340734676,
+      "key": "0|org.telegram.messenger|-1392056972|null|10202",
+      "hash": "92a7e6f7372874eb574f193a42bb5a04"
+    },
+    {
+      "appName": "com.microsoft.skydrive",
+      "title": "Backing up your photos...",
+      "content": "35 left",
+      "postTime": 1581340786017,
+      "key": "0|com.microsoft.skydrive|666|null|10178",
+      "hash": "2242391a1e424f991ee008576d7aa1c2"
+    },
+    {
+      "appName": "com.linkedin.android",
+      "title": "LinkedIn",
+      "content": "See updates from LinkedIn that you may have missed",
+      "postTime": 1581340847415,
+      "key": "0|com.linkedin.android|-601305883|null|10334",
+      "hash": "832aeefa30a847ad97cc8d4e08a8b2eb"
+    },
+    {
+      "appName": "com.truecaller",
+      "content": "",
+      "postTime": 1581340884406,
+      "key": "0|com.truecaller|2131364151|null|10358",
+      "hash": "c3a84461b9082f6b2e2a741fb25b5f52"
+    },
+    {
+      "appName": "com.android.mms",
+      "title": "57273",
+      "content": "Use 399865 for two-factor authentication on Facebook.\n\nText \"stop\" to 57575601 or go to https://fb.me/2oQMv85eZPJBfyX to turn off SMS for your Facebook account on this mobile number.",
+      "postTime": 1581340884701,
+      "key": "0|com.android.mms|1765|null|10035",
+      "hash": "a71d3d24dc4708a6e8885385a4ef0e7a"
+    },
+    {
+      "appName": "com.snapchat.android",
+      "title": "Snapchat",
+      "content": "from durgesh",
+      "postTime": 1581340961188,
+      "key": "0|com.snapchat.android|-668956791|null|10165",
+      "hash": "e2817b90202bd43182383bd3d2e7eb6e"
+    },
+    {
+      "appName": "com.android.systemui",
+      "title": "Searching for GPS",
+      "content": "Snapchat",
+      "postTime": 1581340964520,
+      "key": "0|com.android.systemui|252119|null|1000",
+      "hash": "b7437f6765b1d1925d5832d3a2cb2c53"
+    },
+    {
+      "appName": "com.snapchat.android",
+      "title": "Running…",
+      "content": "",
+      "postTime": 1581340966924,
+      "key": "0|com.snapchat.android|1431325696|null|10165",
+      "hash": "7485a49a2297c8bcb36b6116c3a99789"
+    },
+    {
+      "appName": "com.microsoft.skydrive",
+      "title": "Backing up your photos...",
+      "content": "34 left",
+      "postTime": 1581341013674,
+      "key": "0|com.microsoft.skydrive|666|null|10178",
+      "hash": "d4c8c46170726bf74bceba311259d7fa"
+    },
+    {
+      "appName": "com.truecaller",
+      "title": "Call from sayyed",
+      "content": "Identified by Truecaller",
+      "postTime": 1581341019417,
+      "key": "0|com.truecaller|2131366091|+919004250075|10358",
+      "hash": "5b0fe0cdfe70fc05def4f660f8edff66"
+    },
+    {
+      "appName": "com.android.incallui",
+      "title": "+919004250075",
+      "content": "Incoming call",
+      "postTime": 1581341020664,
+      "key": "0|com.android.incallui|1|incall|10058",
+      "hash": "27ba967b6e890aeef3e0aa5f1d8c5e42"
+    },
+    {
+      "appName": "com.android.incallui",
+      "title": "Sam",
+      "content": "+919004250075  India",
+      "postTime": 1581341020805,
+      "key": "0|com.android.incallui|1|incall|10058",
+      "hash": "e27a673a7517a8fbf98f0ae2665608ac"
+    },
+    {
+      "appName": "com.divum.MoneyControl",
+      "content": "In The News podcast | From Delhi election to Oscars & bank that restricted circulation of Rs 2K notes",
+      "postTime": 1581341164418,
+      "key": "0|com.divum.MoneyControl|793199463|null|10304",
+      "hash": "9b958fe557151a3884cc41d660e21589"
+    },
+    {
+      "appName": "org.telegram.messenger",
+      "title": "Movie spot",
+      "content": "🖼 🔥 Don't Miss Any Loot from Amazon & Flipkart Sales\n\nStay Tuned & Never Miss Any Loot From The Sale 😍\n\nIn This Channel You Will Get All Loot Offer, Tricks & Deals Updates\n\nJoin Our Channel On Telegram ❤️\nhttps://t.me/joinchat/AAAAAEtv_7kOss7d098lxg",
+      "postTime": 1581341228904,
+      "key": "0|org.telegram.messenger|-1392056972|null|10202",
+      "hash": "d0c2d635a0602cf136af902ab77201c6"
     }
   ],
   "enabledPermissions": [],
@@ -7784,6 +8240,15 @@
       "longitude": 72.9149591,
       "altitude": 0,
       "accuracy": 24.684999465942383,
+      "speed": 0
+    },
+    {
+      "time": "2020-02-10T13:27:44.246Z",
+      "enabled": true,
+      "latitude": 19.1075359,
+      "longitude": 72.9149781,
+      "altitude": 0,
+      "accuracy": 24.25200080871582,
       "speed": 0
     }
   ],
