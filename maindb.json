@@ -2,7 +2,7 @@
   "admin": {
     "username": "admin",
     "password": "0b9d404f4e5fc10ee8306d4989aab6b4",
-    "loginToken": "02215fba910b627006c177a441902e8a",
+    "loginToken": "7d05b29e176f27702df9c8f00f3db5e0",
     "logs": [
       {
         "time": "2020-02-10T12:25:58.519Z",
@@ -743,6 +743,11 @@
         "time": "2020-02-10T13:36:02.841Z",
         "type": "INFO",
         "message": "061fbede82adf7e7 Notification Recieved"
+      },
+      {
+        "time": "2020-02-10T18:01:30.890Z",
+        "type": "INFO",
+        "message": "061fbede82adf7e7 Disconnected"
       }
     ],
     "ipLog": []
@@ -751,8 +756,8 @@
     {
       "clientID": "061fbede82adf7e7",
       "firstSeen": "2020-02-10T12:39:34.643Z",
-      "lastSeen": "2020-02-10T13:25:48.308Z",
-      "isOnline": true,
+      "lastSeen": "2020-02-10T18:01:31.032Z",
+      "isOnline": false,
       "dynamicData": {
         "clientIP": "192.168.0.102",
         "clientGeo": {},
